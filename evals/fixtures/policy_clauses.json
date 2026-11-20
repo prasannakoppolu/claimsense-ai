@@ -1,0 +1,101 @@
+{
+  "wording_version": "PM-2026.1",
+  "clauses": [
+    {
+      "clause_id": "PM-1.1",
+      "title": "Definitions",
+      "text": "'Insured vehicle' means the vehicle shown in the schedule. 'Named driver' means a person listed as a driver in the schedule.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-1.2",
+      "title": "Period of insurance",
+      "text": "Cover applies only to losses occurring between the inception date and time and the expiry date and time shown in the schedule. No cover applies to a loss occurring outside this period.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-2.1",
+      "title": "Collision",
+      "text": "We will pay for accidental damage to the insured vehicle caused by collision with another vehicle or object, less the collision deductible.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-2.2",
+      "title": "Comprehensive",
+      "text": "We will pay for loss of or damage to the insured vehicle caused by theft, attempted theft, fire, vandalism, hail, flood, falling objects, or glass breakage, less the comprehensive deductible.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-2.3",
+      "title": "Theft condition",
+      "text": "For any claim involving theft, the theft must be reported to the police within 48 hours of discovery and a crime reference number must be provided before the claim can be settled.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-3.1",
+      "title": "Deductible",
+      "text": "The deductible shown in the schedule for the applicable section is applied once per claim.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-3.2",
+      "title": "Total loss",
+      "text": "Where the reasonable cost of repair exceeds 70% of the actual cash value of the insured vehicle at the date of loss, the vehicle is treated as a total loss and settlement is the actual cash value less the applicable deductible, subject to salvage.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-4.1",
+      "title": "Exclusion - unlisted drivers",
+      "text": "We will not pay for loss or damage while the insured vehicle is driven by a person who is not a named driver, unless the Permitted Driver Endorsement (END-PD) applies.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-4.2",
+      "title": "Exclusion - hire or reward",
+      "text": "We will not pay for loss or damage while the insured vehicle is used for hire or reward, including ride-hailing or paid delivery, unless the Business Use Endorsement (END-BU) applies.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-4.3",
+      "title": "Exclusion - racing",
+      "text": "We will not pay for loss or damage while the insured vehicle is used for racing, pacemaking, speed testing or on a track day.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-4.4",
+      "title": "Exclusion - wear and tear",
+      "text": "We will not pay for wear and tear, mechanical or electrical breakdown, or gradual deterioration, including damage caused by lack of maintenance.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-5.1",
+      "title": "Notification",
+      "text": "You must notify us of any loss within 30 days.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-5.2",
+      "title": "Fraud",
+      "text": "If any claim is in any way fraudulent or supported by false documents or statements, we will not pay the claim and may cancel the policy. Suspected fraud is referred to the Special Investigations Unit.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "PM-6.1",
+      "title": "Bodily injury",
+      "text": "Any claim in which bodily injury to any person is reported must be referred to an injury claims specialist before any decision is made on the claim.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "END-PD",
+      "title": "Permitted Driver Endorsement",
+      "text": "Cover under PM-2.1 and PM-2.2 extends to any person aged 25 or over driving the insured vehicle with the policyholder's permission.",
+      "wording_version": "PM-2026.1"
+    },
+    {
+      "clause_id": "END-BU",
+      "title": "Business Use Endorsement",
+      "text": "Cover extends to use of the insured vehicle for hire or reward including ride-hailing and delivery.",
+      "wording_version": "PM-2026.1"
+    }
+  ]
+}
